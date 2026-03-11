@@ -1,0 +1,4 @@
+from resources.auth_resource import auth_bp
+from resources.admin_resource import admin_bp
+from resources.company_resource import company_bp
+from resources.student_resource import student_bp
